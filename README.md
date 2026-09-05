@@ -102,9 +102,7 @@ Preview images of each page are available in the `screenshots/` folder.
 
 ## Documentation
 
-Full project documentation:
-
-- `documentation/dashboard_documentation.docx`  
+Full project documentation: 
 - `documentation/dashboard_documentation.pdf`  
 
 Covers objectives, dataset details, page-wise explanation, key DAX measures, filters, technical notes, final insights & recommendations, and limitations.
@@ -147,4 +145,5 @@ Sensitive, confidential, personally identifiable, or internal business informati
 All data used in this project is **synthetic / demo data** only.
 
 ---
+*Author - Shruti Bunde*
 *Internship Project Work*
