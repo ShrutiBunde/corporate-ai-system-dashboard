@@ -146,6 +146,7 @@ All data used in this project is **synthetic / demo data** only.
 
 ---
 *Author - Shruti Bunde*
----
+
+*Data Analyst*
 
 *Internship Project Work*
